@@ -10,4 +10,4 @@ Line 21 - just add green letters here (for instance we have 'a' on pos 0, 'b' on
 The script is written in 20 minutes just for fun - if you like the simplicity of the approach I can add bs4 and request libraries to make the prediction 100% in 1 attempt (just need to change some request-data that comes to the server, maybe it's just IP-address, maybe smth more complicated, but it's easy to do).
 
 
-![https://paste.pics/FW1DR]
+Screenshot - https://paste.pics/FW1DR
